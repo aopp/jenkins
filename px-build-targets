@@ -1,3 +1,4 @@
-# PX build target list
+# Build target list
+# <build_target> <build_variant> <build_version>
 
 hammerhead userdebug px-0.1
