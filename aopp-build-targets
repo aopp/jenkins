@@ -1,11 +1,11 @@
 # Build target list
 # <build_target> <build_variant> <build_version>
 
-deb userdebug px-0.1
-flo userdebug px-0.1
+deb userdebug px-0.2
+flo userdebug px-0.2
 flounder userdebug px-0.1
 flounder_lte userdebug px-0.1
 grouper userdebug px-0.1
-hammerhead userdebug px-0.1
+hammerhead userdebug px-0.2
 shieldtablet userdebug px-0.1
 tilapia userdebug px-0.1
