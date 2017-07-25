@@ -1,6 +1,7 @@
 # Build target list
 # <build_target> <build_variant> <build_version>
 
+bullhead userdebug px-0.2
 deb userdebug px-0.2
 flo userdebug px-0.2
 flounder userdebug px-0.2
